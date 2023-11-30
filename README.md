@@ -21,6 +21,9 @@ The image is loaded into the RTL as a **.coe** file via a Block memory.The RTL c
 Below given is the post implementation schematic.It has been done of 3 Partial reconfigurations.<br />
 
 ![Post_Imp_schematic](https://github.com/mrdunker/PR_with_image_processing/assets/38190245/5c5a2e99-736e-4e80-be11-be7d4d3dc3f5)
+<br />
+![Screenshot from 2023-11-30 16-55-46](https://github.com/mrdunker/PR_with_image_processing/assets/75561390/4afd5c53-ad8b-4bed-98d4-84be9435a967)
+
 
 ## Floorplan of 3 PR 
 
