@@ -58,7 +58,7 @@ module pr_operation(pixel_clk,
                 
                
 
-// Emil ++ edge detection
+//   edge detection
                         if(reset) begin
                             redx = 0;
                             greenx = 0;
