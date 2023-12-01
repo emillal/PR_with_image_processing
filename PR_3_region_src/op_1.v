@@ -57,7 +57,7 @@ module pr_operation(pixel_clk,
                 
                 
 
-// Emil ++           orginal image (parent)
+//            orginal image (parent)
                     if(reset) begin
                         redx = 0;
                         greenx = 0;
