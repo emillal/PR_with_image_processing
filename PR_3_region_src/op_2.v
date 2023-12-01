@@ -59,7 +59,7 @@ module pr_operation(pixel_clk,
                 
                
 
-//Emil++ grayscale
+//   grayscale
                     if(reset) begin
                         redx = 0;
                         greenx = 0;
